@@ -1,0 +1,10 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: View
+    order:
+      - file.backlinks
+    image: file.file
+  - type: table
+    name: Table
